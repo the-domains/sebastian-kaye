@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-01T11:53:31.356Z'
+datePublished: '2016-09-01T12:00:30.528Z'
 sourcePath: _posts/2016-08-26-introduction.md
 author: []
 via: {}
-dateModified: '2016-09-01T11:53:30.847Z'
+dateModified: '2016-09-01T12:00:29.808Z'
 title: Introduction
 publisher:
   name: Sebastian Kaye
@@ -19,7 +19,7 @@ _type: MediaObject
 
 ---
 # Introduction
-![Research Wall](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ede5d89d-6ef5-4a11-af8e-8b254415bfc2.jpg)
+![Mapping interestes](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ede5d89d-6ef5-4a11-af8e-8b254415bfc2.jpg)
 
 I am a media artists, interested in designing and creating devises for exploring perception, not just visual but also inner mental perception. Inspired by eastern philosophic tradition, particularly Tibetan Buddhism.
 
